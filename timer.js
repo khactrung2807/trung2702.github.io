@@ -2,7 +2,7 @@ $(function(){
     function timer(settings){
         var config = {
             // Cai dat ngay ket thuc
-            endDate: '2020-01-25 00:00',
+            endDate: '2024-02-10 00:00',
             // Cai dat time zone
             timeZone: 'Asia/Ho_Chi_Minh', 
             hours: $('#hours'),
